@@ -1,0 +1,3 @@
+# julis test dependency for working on fd.prezi.com
+
+julitest==1.0.0
