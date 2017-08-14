@@ -1,4 +1,4 @@
 # julis test dependency for working on fd.prezi.com
 
 julitest==1.0.0
-gunicorn==19.0
+gunicorn==19.2
