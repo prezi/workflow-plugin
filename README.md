@@ -117,3 +117,6 @@ While the implementation is divided into a number of plugins, for ease of protot
 * `cps-global-lib` adds a Git-backed repository for Groovy libraries available to scripts.
 * `stm` is a simple engine implementation using a _state transition machine_, less intended for end users than as a reference for how engines can work. Currently only partly implemented.
 * `aggregator` is a placeholder plugin allowing you to `mvn hpi:run` and see everything working together, as well as holding integration tests.
+
+
+
